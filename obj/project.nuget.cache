@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrsA7sKDhnv1beM9xACdKtwmtWzmInl+y+DhFidsWRPgIfpmrOOlfQmKc2N89aYK4Z3BiVftm8guernz5UbQOA==",
+  "success": true,
+  "projectFilePath": "/home/rng/codebase/ellevation-elevator/ellevation-elevator.csproj",
+  "expectedPackageFiles": [
+    "/home/rng/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

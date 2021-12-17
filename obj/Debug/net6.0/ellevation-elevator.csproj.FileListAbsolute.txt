@@ -1,0 +1,15 @@
+/home/rng/codebase/ellevation-elevator/bin/Debug/net6.0/ellevation-elevator
+/home/rng/codebase/ellevation-elevator/bin/Debug/net6.0/ellevation-elevator.deps.json
+/home/rng/codebase/ellevation-elevator/bin/Debug/net6.0/ellevation-elevator.runtimeconfig.json
+/home/rng/codebase/ellevation-elevator/bin/Debug/net6.0/ellevation-elevator.dll
+/home/rng/codebase/ellevation-elevator/bin/Debug/net6.0/ref/ellevation-elevator.dll
+/home/rng/codebase/ellevation-elevator/bin/Debug/net6.0/ellevation-elevator.pdb
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.csproj.AssemblyReference.cache
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.GeneratedMSBuildEditorConfig.editorconfig
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.AssemblyInfoInputs.cache
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.AssemblyInfo.cs
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.csproj.CoreCompileInputs.cache
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.dll
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ref/ellevation-elevator.dll
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.pdb
+/home/rng/codebase/ellevation-elevator/obj/Debug/net6.0/ellevation-elevator.genruntimeconfig.cache
